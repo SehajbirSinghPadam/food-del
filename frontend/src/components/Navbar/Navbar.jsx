@@ -47,6 +47,14 @@ const Navbar = ({ setShowLogin }) => {
         >
           Contact Us
         </a>
+        <Link to='/myorders'>
+        My Orders
+        </Link>
+
+      
+
+
+
       </ul>
       
       <div className="navbar-right">
