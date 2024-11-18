@@ -55,7 +55,7 @@ const removeFood =async(foodId) =>{
                 />
                 <p>{item.name}</p>
                 <p>{item.category}</p>
-                <p>${item.price}</p>
+                <p>₹{item.price}</p>
                 <p onClick={()=>removeFood(item._id)} className="cursor" >
                   {/* Add functionality for the "X" button here, e.g., delete */}
                   X
