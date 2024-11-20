@@ -12,7 +12,7 @@ const Footer = () => {
 
   const contactInfo = [
     { type: 'phone', value: '9779665444' },
-    { type: 'email', value: 'singhsehajbir1906@gmail.com' },
+    { type: 'email', value: 'PrinceKumar@gmail.com' },
   ];
 
   return (
