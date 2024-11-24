@@ -6,13 +6,12 @@ const AppDownload = () => {
   return (
     <div className='app-download' id='app-download'>
         <p>For better Experience Dowload <br/> Snapbite App </p>
-      <p>under process</p>
-      
       <div className="app-dowload-platforms">
 
         <img src={assets.play_store} alt="" />
         <img src={assets.app_store } alt="" />
       </div>
+      
     </div>
   )
 }
